@@ -1,6 +1,6 @@
 # Rails
 
-This is the pinteresting application for [*One Month Rails*]
+This is the pinteresting application for Rails
 
 by Mr. NOICE
 

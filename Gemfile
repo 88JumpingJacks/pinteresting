@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.3.0'
 
 # Only need to use following gems in development and test
 group :development, :test do

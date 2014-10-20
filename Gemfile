@@ -11,6 +11,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise', '~> 3.3.0'
+#gem 'paperclip', '~> 3.0' # Install gem above 3.0 but below 4.0
+gem 'paperclip', :git => "git://github.com/thoughtbot/paperclip.git"
 
 # Only need to use following gems in development and test
 group :development, :test do
